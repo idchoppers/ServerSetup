@@ -1,4 +1,4 @@
-# Script made by idchoppers! 
+# Script made by idchoppers!
 import requests
 import subprocess
 import shutil
@@ -34,4 +34,4 @@ s.write("#!/bin/bash\njava -Xms2048m -Xmx12G -XX:PermSize=256m -jar forge-1.12.2
 s.close()
 
 # End of setup
-print("\n[] Server has finished installing! []\n\n!!! Please review the -Xmx and -Xms settings in the LaunchServer.bat/sh file and change the amount of RAM used to launch the server if needed, the default is -Xmx12G -Xms2048m !!!\n\nIf you are using Windows, use the LaunchServer.bat file to launch the server.\nIf you are using Linux, use the LaunchServer.sh file to launch the server.")
+print("\n[*] Server has finished installing! [*]\n\n!!! Please review the -Xmx and -Xms settings in the LaunchServer.bat/sh file and change the amount of RAM used to launch the server if needed, the default is -Xmx12G -Xms2048m !!!\n\nIf you are using Windows, use the LaunchServer.bat file to launch the server.\nIf you are using Linux, use the LaunchServer.sh file to launch the server.")
