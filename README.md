@@ -10,7 +10,7 @@ The ServerSetup/ServerSetup.py file is the script, feel free to make changes as 
 - Windows or Linux OS
 - An Internet connection
 - Python 3
-  - requests library (pip install requests)
+  - requests library (```pip install requests```)
 - Java
 
 ## How to use the Script
