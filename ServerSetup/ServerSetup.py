@@ -1,5 +1,4 @@
 # Script made by idchoppers! 
-import os
 import requests
 import subprocess
 import shutil
