@@ -1,4 +1,8 @@
 # Script made by idchoppers!
+#
+# Copyright 2021 Kyle Smith
+# Licensed under GPL-3.0-or-later
+
 import requests
 import subprocess
 import shutil
